@@ -1,0 +1,1 @@
+# lesson-on-changing-the-language-in-autotests
